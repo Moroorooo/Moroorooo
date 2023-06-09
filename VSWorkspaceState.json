@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Game",
+    "\\Game\\Source",
+    "\\Game\\Source\\RimWorld",
+    "\\Game\\Source\\RimWorld\\Defs",
+    "\\Game\\Source\\RimWorld\\Defs\\DefTypes",
+    "\\Game\\Source\\RimWorld\\Game",
+    "\\Game\\Source\\RimWorld\\Game\\Storyteller",
+    "\\Game\\Source\\RimWorld\\Game\\Storyteller\\Incidents",
+    "\\Game\\Source\\RimWorld\\Game\\Storyteller\\Incidents\\Workers",
+    "\\Game\\Source\\RimWorld\\Game\\Storyteller\\Incidents\\Workers\\Map"
+  ],
+  "SelectedNode": "\\Game\\Source\\RimWorld\\Game\\Storyteller\\Incidents\\Workers\\Map\\IncidentWorker_AnimalInsanity.cs",
+  "PreviewInSolutionExplorer": false
+}
