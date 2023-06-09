@@ -1,1 +1,29 @@
+Người dùng -> Công cụ sắp xếp công thức: Tìm kiếm công thức
+Công cụ sắp xếp công thức -> Cơ sở dữ liệu công thức: Truy vấn công thức
+Cơ sở dữ liệu công thức --> Công cụ sắp xếp công thức: Trả về danh sách công thức
+Công cụ sắp xếp công thức -> Người dùng: Hiển thị danh sách công thức
+
+Người dùng -> Công cụ sắp xếp công thức: Chọn công thức
+Công cụ sắp xếp công thức -> Cơ sở dữ liệu công thức: Lấy thông tin chi tiết công thức
+Cơ sở dữ liệu công thức --> Công cụ sắp xếp công thức: Trả về thông tin chi tiết công thức
+Công cụ sắp xếp công thức -> Người dùng: Hiển thị thông tin chi tiết công thức
+
+Người dùng -> Công cụ sắp xếp công thức: Lập kế hoạch bữa ăn
+Công cụ sắp xếp công thức -> Cơ sở dữ liệu công thức: Tìm công thức cho kế hoạch
+Cơ sở dữ liệu công thức --> Công cụ sắp xếp công thức: Trả về danh sách công thức cho kế hoạch
+Công cụ sắp xếp công thức -> Người dùng: Hiển thị danh sách công thức cho kế hoạch
+
+Người dùng -> Công cụ sắp xếp công thức: Chia sẻ công thức
+Công cụ sắp xếp công thức -> Mạng xã hội/Email: Gửi công thức
+Mạng xã hội/Email --> Công cụ sắp xếp công thức: Xác nhận chia sẻ thành công
+
+Người dùng -> Công cụ sắp xếp công thức: Đăng nhập
+Công cụ sắp xếp công thức -> Hệ thống quản lý tài khoản: Xác thực thông tin đăng nhập
+Hệ thống quản lý tài khoản --> Công cụ sắp xếp công thức: Xác thực thành công
+
+Người dùng -> Công cụ sắp xếp công thức: Quản lý tài khoản
+Công cụ sắp xếp công thức -> Hệ thống quản lý tài khoản: Gửi yêu cầu quản lý tài khoản
+Hệ thống quản lý tài khoản --> Công cụ sắp xếp công thức: Trả về thông tin tài khoản
+
+Người dùng -> Công cụ sắp xếp công thức: Lưu công thức
 
