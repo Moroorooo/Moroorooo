@@ -1,0 +1,19 @@
+"Action Manifest"
+{
+	"configurations"
+	{
+		"controller_neptune"
+		{
+			"0"
+			{
+				"path" "SteamInputDefaultConfiguration_SteamDeck.vdf"
+			}
+		}
+	}
+	"actions"
+	{
+	}
+	"localization"
+	{
+	}
+}
